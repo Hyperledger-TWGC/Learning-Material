@@ -1,10 +1,9 @@
 # Learning-Material
 
-## 
-
 ## 中文视频 
 - [Fabric Video Tutorial](https://wiki.hyperledger.org/display/TWGC/Fabric+Video+Tutorial)
-  -   WIP
+  - 系列讲师按照Fabric官方的中文文档展开精讲
+- [Hyperledger 官方腾讯视频频道](https://v.qq.com/s/videoplus/1300396971)
 
 ## 第三方资料
 ### 电子书目
