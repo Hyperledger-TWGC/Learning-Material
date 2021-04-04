@@ -8,9 +8,9 @@
 ## 第三方资料
 ### 电子书目
 - [《区块链技术指南》](https://github.com/yeasy/blockchain_guide)
-- [《区块链原理、设计与应用 第2版》 京东货架](https://item.jd.com/12159265.html)
 - [《Hyperledger 源码分析之 Fabric》](https://github.com/yeasy/hyperledger_code_fabric)
 ### 实体书目
+- [《区块链原理、设计与应用 第2版》 京东货架](https://item.jd.com/12159265.html)
 - 《Hyperledger Fabric 技术内幕：架构设计与实现原理》
 - 《区块链开发实战- Hyperledger Fabric关键技术与案例分析》
 - 《深度探索区块链：Hyperledger技术与应用》
