@@ -8,3 +8,16 @@ Hyperledger学习材料开发工作组 全称为Learning Materials Development W
 该工作组的工作成果将针对技术和非技术受众 
 
 [官方confluence wiki](https://wiki.hyperledger.org/display/LMDWG/Learning+Materials+Development+Working+Group)
+
+
+## 欢迎新人
+https://wiki.hyperledger.org/display/LMDWG/New+Member+Welcome+Page
+
+### 注册linux基金会账号
+https://wiki.hyperledger.org/display/LMDWG/Getting+a+Login 
+
+### 加入定期视频会议
+https://wiki.hyperledger.org/display/LMDWG/Join+The+Calls
+
+### 加入Mail list
+https://wiki.hyperledger.org/display/LMDWG/How+to+Get+Involved
