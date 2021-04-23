@@ -1,4 +1,4 @@
-# Learning-Material
+# Hyperledger中文学习资料部分汇总
 
 ## 中文视频 
 - [Fabric Video Tutorial](https://wiki.hyperledger.org/display/TWGC/Fabric+Video+Tutorial)
