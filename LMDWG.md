@@ -21,3 +21,7 @@ https://wiki.hyperledger.org/display/LMDWG/Join+The+Calls
 
 ### 加入Mail list
 https://wiki.hyperledger.org/display/LMDWG/How+to+Get+Involved
+
+## 其他资源仓库
+https://wiki.hyperledger.org/pages/viewpage.action?pageId=2394031
+
