@@ -6,6 +6,10 @@
 - [Hyperledger 官方腾讯视频频道](https://v.qq.com/s/videoplus/1300396971)
 
 ## [Hyperledger学习材料开发工作组资料索引](LMDWG.md)
+
+## 超级账本常见问题以及回答
+https://github.com/Hyperledger-TWGC/FAQ
+
 ## 第三方资料
 ### 电子书目
 - [《区块链技术指南》](https://github.com/yeasy/blockchain_guide)
