@@ -27,7 +27,8 @@ https://github.com/Hyperledger-TWGC/FAQ
 - [研讨会与演讲归档 -- 杨保华](https://github.com/yeasy/seminar-talk#hyperledger)
 ### 商业机构的开源讲座
 - [超级账本Fabric v2.0系列课程 -- IBM](https://space.bilibili.com/102734951/channel/detail?cid=112557)
-- [超级账本Fabric v1.4系列课程 -- IBM](https://space.bilibili.com/102734951/channel/detail?cid=69148)
+- [超级账本Fabric v1.4系列课程 -- IBM](https://mediacenter.ibm.com/channel/%25E5%25BC%2580%25E6%25BA%2590%25E6%258A%2580%25E6%259C%25AF%2B%252A%2BIBM%2B%25E5%25BE%25AE%25E8%25AE%25B2%25E5%25A0%2582/110489721?keyword=Fabric%202&sortBy=relevance&categoryId=110489721)
+  - [bilibili minor](https://space.bilibili.com/102734951/channel/detail?cid=69148)  
 
 ## 维护者
 由TWGC “i18n and Education 国际化教育” 领域小组维护
